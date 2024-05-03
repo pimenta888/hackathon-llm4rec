@@ -1,0 +1,7 @@
+langchain-openai
+langchain
+python-dotenv
+pandas
+openai
+lancedb
+ipykernel
